@@ -58,7 +58,6 @@ while True:
     print("2. Enroll Student")
     print("3. Drop Student")
     print("4. Exit")
-    print("4. Exit")
     choice = input("Enter your choice (1-4): ")
     if choice == '1':
         StudentDatabase.view_all_students()
